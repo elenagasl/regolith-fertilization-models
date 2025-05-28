@@ -64,10 +64,6 @@ Numerical integration is performed using `solve_ivp` with the `'BDF'` method to 
 
 It is recommended to use **Anaconda** or **Miniconda** to manage the Python environment.
 
-## License
-
-This project is licensed under the **MIT License**. If you use any of the materials or code in academic or research work, please cite or acknowledge the original author.
-
 ## Contact
 
 **Elena [Last Name]**  
