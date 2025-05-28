@@ -34,8 +34,8 @@ Curated organisms:
 - *Anabaena cylindrica*
 - *Nostoc muscorum*
 - *Clostridium aminophilum*
-- *Chlorella vulgaris*
-- *Bacillus subtilis*
+- *Halomonas Elongata*
+- *Rhizobium Leguminosarum*
 
 All curated models are stored in **SBML format (.xml)** under the `data/` directory.
 
