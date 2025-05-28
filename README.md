@@ -66,7 +66,7 @@ It is recommended to use **Anaconda** or **Miniconda** to manage the Python envi
 
 ## Contact
 
-**Elena [Last Name]**  
+**Elena García**  
 BSc in Biotechnology – Computational Biotechnology Track  
 Universidad Politécnica de Madrid
 elena.garcia.arroyo@alumnos.upm.es
