@@ -9,7 +9,7 @@ This work is part of a **Bachelor’s Thesis in Biotechnology** (2024–2025), w
 ```
 📁 model_curation/
     └── Curation of draft metabolic models generated with ModelSEED
-📁 simulaciones_metabolicas/
+📁 metabolic_simulations/
     └── dFBA simulations of compartment 3
 📁 data/
     └── Metabolic models in SBML format (.xml)
