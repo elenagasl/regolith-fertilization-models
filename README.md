@@ -41,7 +41,7 @@ All curated models are stored in **SBML format (.xml)** under the `data/` direct
 
 ### 2. Dynamic Metabolic Simulations
 
-The notebooks in `simulaciones_metabolicas/` implement a **Dynamic Flux Balance Analysis (dFBA)** framework focusing on **Compartment 3** of the system. This compartment is responsible for stabilizing and enriching Martian regolith through the production of organic acids, polysaccharides, and biomass.
+The notebooks in `metabolic_simulations/` implement a **Dynamic Flux Balance Analysis (dFBA)** framework focusing on **Compartment 3** of the system. This compartment is responsible for stabilizing and enriching Martian regolith through the production of organic acids, polysaccharides, and biomass.
 
 The simulations include:
 
